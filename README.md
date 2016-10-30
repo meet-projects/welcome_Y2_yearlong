@@ -1,8 +1,8 @@
-## Welcome to Y2 Yearlong!! 
+# Welcome to Y2 Yearlong!! 
 Your one-stop shop for all Y2 yearlong materials [2016-2017]
 
 # Slack Channel
-#y2_yearlong_2016-17
+ #y2_yearlong_2016-17
 
 # Syllabus
 
