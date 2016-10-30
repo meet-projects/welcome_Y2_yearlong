@@ -13,7 +13,7 @@ This is the syllabus for the yearlong.  Each row represents a week of the progra
 ### First Semester 
 | Week | Dates | Warm-Up | Topics | Resources | Repo | 
 | --- | --- | --- | --- | ---| ---|
-| 1 | Oct. 30 - Nov. 5, 2016 | b | <ul><li> Welcome to Yearlong & Y3</li> <li> Assignment Submission Workflow</li></ul> | d | e|
+| 1 | Oct. 30 - Nov. 5, 2016 | b | <ul><li> Welcome to Yearlong & Y3</li> <li> Assignment Submission Workflow</li></ul> | <ul><li>[Week 1 Lecture Notes](https://docs.google.com/document/d/1qk1U4U4lSYx0OgJxCdWrKjPt_048p347a0c5KJiNyxQ/edit?usp=sharing)</li> <li>[Markdown Tutorial](http://www.markdowntutorial.com/)</li></ul>| e|
 | 2 | Nov. 6 - Nov. 12, 2016 | b | c | d | e|
 | 3 | Nov. 13 - Nov. 19, 2016 | b | c | d | e|
 | 4 | Nov. 20 - Nov. 26, 2016 | b | c | d | e|
