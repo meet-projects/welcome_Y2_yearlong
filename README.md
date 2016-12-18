@@ -24,7 +24,7 @@ This is the syllabus for the yearlong.  Each row represents a week of the progra
 | 5 | Nov. 27 - Dec. 3, 2016 | [Week 5 Warmup](https://github.com/meet-projects/welcome_Y2_yearlong/blob/master/warmups/week5.py) | <ul><li>Project Management Part II</li> <li>Intro to JavaScript</li></ul> | <ul><li>[JavaScript Practice Problems](http://www.w3resource.com/javascript-exercises/)</li><li>[Sample Gantt Chart](https://docs.google.com/spreadsheets/d/1FXNXqRMbfYCxT0pAtXCmCt944C43qdSsbxVXSWQOaYo/edit?usp=sharing)</li></ul> | [Week 5](https://github.com/meet-projects/Y2YL201617_Week5)|
 | 6 | Dec. 4 - Dec. 10, 2016 | TBA | <ul><li>Product Design Part I</li> <li></li>Object-Oriented Programming</ul>| d | [Week 6](#)|
 | 7 | Dec. 11 - Dec. 17, 2016 | [Week 7 Warmup](https://github.com/meet-projects/welcome_Y2_yearlong/blob/master/warmups/week7.py) | <ul><li>API Endpoints</li> <li></li>JavaScript</ul> | <ul><li>[Lecture Notes](https://docs.google.com/presentation/d/1XznMLRfAMxh184bmZ7-zZvUfZk08JxbuvpyEOoQh2G0/edit)</li></ul> | [Week 7](https://github.com/meet-projects/Y2YL201617_Week7)|
-| 8 | Dec. 18 - Dec. 24, 2016 | TBA | <ul><li>Research Case Study 1</li> </ul> | d | [Week 8](#)|
+| 8 | Dec. 18 - Dec. 24, 2016 | TBA | <ul><li>Research Case Study 1</li> </ul> | [Week 8 Slides - Jerusalem](https://docs.google.com/presentation/d/14tDVgX92UVAPZxQLixkPa9VVoTMm1fS_y1QtzhHNDNw/edit#slide=id.g1a2614f56c_0_36) | Week 8 Materials <ul><li>[Blank Reserach Template](https://docs.google.com/document/d/11OGAUoUEIIFynaR7KhIDQTsrFjHgYcsuPJLdXRc2mSI/edit?usp=sharing)</li></ul>|
 --
 ## MEETConf Dec. 28-29, 2016
 --
