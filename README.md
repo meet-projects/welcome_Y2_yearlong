@@ -32,7 +32,7 @@ This is the syllabus for the yearlong.  Each row represents a week of the progra
 | Week | Dates | Warm-Up | Topics | Resources | Repo | 
 | --- | --- | --- | --- | ---| ---|
 | 9 | Jan. 1 - Jan. 7, 2017 | b | <ul><li>Research Case Study 2</li> <li>Authentication & Authorization</li></ul> | d | e|
-| 10 | Jan. 8 - Jan. 14, 2017 | b | <ul><li>Cross-Cultural Communication & Teamwork</li> <li>Software Development & Architecture</li></ul> | d | [Week 10](https://github.com/meet-projects/Y2YL201617_Week10)|
+| 10 | Jan. 8 - Jan. 14, 2017 | b | <ul><li>Cross-Cultural Communication & Teamwork</li> <li>Software Development & Architecture</li></ul> | [Flask Documentation](http://flask.pocoo.org/) | [Week 10](https://github.com/meet-projects/Y2YL201617_Week10)|
 | 11 | Jan. 15- Jan. 21, 2017 | b | <ul><li>Y3 Ideation</li> <li>Advanced Flask</li></ul> | d | e|
 | 12 | Jan. 22 - Jan 28, 2017 | b |<ul><li>Agile Development & Scrum </li> <li>Deploying Scalable Web Applications</li></ul> | d | e|
 | 13 | Jan. 29 - Feb 4, 2017 | b | <ul><li>Y2 Individual Capstone Project </li></ul> | d | e|
