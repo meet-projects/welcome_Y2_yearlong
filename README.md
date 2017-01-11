@@ -27,6 +27,11 @@ This is the syllabus for the yearlong.  Each row represents a week of the progra
 | 8 | Dec. 18 - Dec. 24, 2016 | TBA | <ul><li>Research Case Study 1</li> </ul> | [Week 8 Slides - Jerusalem](https://docs.google.com/presentation/d/14tDVgX92UVAPZxQLixkPa9VVoTMm1fS_y1QtzhHNDNw/edit#slide=id.g1a2614f56c_0_36) | Week 8 Materials <ul><li>[Blank Reserach Template](https://docs.google.com/document/d/11OGAUoUEIIFynaR7KhIDQTsrFjHgYcsuPJLdXRc2mSI/edit?usp=sharing)</li><li>[Sample Topics for Ideation](https://docs.google.com/presentation/d/1d9RPyHZ6CAwkBqql1RUD39GpwOTwlDS5GbqbiPWMnqg/edit?usp=sharing)</li></ul>|
 --
 ## MEETConf Dec. 28-29, 2016
+| Topics | Resources |  
+| --- | --- | 
+| Branding, Color Theory, Typography and Design |<ul><li> [Slides for Branding Lecture](https://docs.google.com/presentation/d/1sBSh9uFPQ4eUpJ9NoD2e7nAZX6qlK1GYUgSGFGtY2cU/edit?usp=sharing)</li>
+<li>[Design Lab Slides](https://docs.google.com/presentation/d/1HQ-hrULVH-GyMkgCtCijwcFAYxr-YV3lbhXhuBohko0/edit?usp=sharing)</li> 
+<li>[Design Lab](https://docs.google.com/document/d/1jq4dIclyCxIgvqQxdXEGf5QDTo6Do92KOdpG0T-fMZU/edit?usp=sharing)</li></ul> 
 --
 ### Second Semester 
 | Week | Dates | Warm-Up | Topics | Resources | Repo | 
@@ -73,4 +78,8 @@ This is the syllabus for the yearlong.  Each row represents a week of the progra
 
 ### Startup Entrepreneurship
 * [Entrepreneur.com](https://www.entrepreneur.com/)
+ 
+ 
+### Graphic Design
+
  
