@@ -35,20 +35,20 @@ This is the syllabus for the yearlong.  Each row represents a week of the progra
 ### Second Semester 
 | Week | Dates | Warm-Up | Topics | Resources | Repo | 
 | --- | --- | --- | --- | ---| ---|
-| 9 | Jan. 1 - Jan. 7, 2017 | b | <ul><li>2017 Lesson Plan</li></ul> | d | [Week 9 Slides](https://docs.google.com/presentation/d/1qSVB12RREPXmVFfhwagjnne1pLeR00_5JDVXHML_9kA/edit?usp=sharing)|
-| 10 | Jan. 8 - Jan. 14, 2017 | b | <ul><li>Advanced Flask</li> <li>Software Development & Architecture</li></ul> | [Flask Documentation](http://flask.pocoo.org/) | [Week 10](https://github.com/meet-projects/Y2YL201617_Week10)|
-| 11 | Jan. 15- Jan. 21, 2017 | b | <ul><li>Y3 Ideation</li> <li>Advanced Flask</li></ul> | d | e|
-| 12 | Jan. 22 - Jan 28, 2017 | b |<ul><li>Agile Development & Scrum </li> <li>Deploying Scalable Web Applications</li></ul> | d | e|
+| 9 | Jan. 1 - Jan. 7, 2017 | group activity | <ul><li>2017 Lesson Plan</li></ul> | d | [Week 9 Slides](https://docs.google.com/presentation/d/1qSVB12RREPXmVFfhwagjnne1pLeR00_5JDVXHML_9kA/edit?usp=sharing)|
+| 10 | Jan. 8 - Jan. 14, 2017 | group activity | <ul><li>Advanced Flask</li></ul> | [Flask Documentation](http://flask.pocoo.org/) | [Week 10](https://github.com/meet-projects/Y2YL201617_Week10)|
+| 11 | Jan. 15- Jan. 21, 2017 | group activity | <ul><li>Y3 Ideation</li> <li>Advanced Flask & OAuth</li></ul> | d | e|
+| 12 | Jan. 22 - Jan 28, 2017 | group activity |<ul><li>Responsive Web Design</li><li>Deploying web applicaitons with Heroku</li></ul> | d | e|
 | 13 | Jan. 29 - Feb 4, 2017 | b | <ul><li>Y2 Individual Capstone Project </li></ul> | d | e|
 | 14 | Feb. 5 - Feb. 11, 2017 | b |<ul><li>Y2 Individual Capstone Project </li></ul> | d | e|
 | 15 | Feb. 12 - Feb. 18, 2017 | b | <ul><li>Y2 Individual Capstone Project </li></ul> | d | e|
-| 16 | Feb. 19 - Feb. 25, 2017 | b | <ul><li>Continued Ideation for Y3</li> <li>Making Effective Presentations</li></ul> | d | e|
+| 16 | Feb. 19 - Feb. 25, 2017 | b | <ul><li>Continued Ideation for Y3</li></ul> | d | e|
 | 17 | Feb. 26 - Mar. 4, 2017 | b | <ul><li>How to Make a Pitch Deck</li> <li>Finalize Ideation</li></ul> | d | e|
-| 18 | Mar. 5 - Mar. 11, 2017 | b | <ul><li>MVP Design & Pitch Deck Creation</li></ul> | d | e|
-| 19 | Mar. 12 - Mar 18, 2017 | b |<ul><li>MVP Design & Pitch Deck Creation</li></ul>| d | e|
-| 20 | Mar. 19 - Mar. 25, 2017 | b | <ul><li>MVP Design & Pitch Deck Creation</li></ul> | d | e|
-| 21 | Mar. 26 - Apr. 1, 2017 | b | <ul><li>Demo Videos & Pitch Deck Practice</li></ul>| d | e|
-| 22 | Apr. 2 - Apr. 8, 2017| b | <ul><li>Pitch Deck Competition</li></ul> | d | e|
+| 18 | Mar. 5 - Mar. 11, 2017 | b | <ul><li>MVP Design </li></ul> | d | e|
+| 19 | Mar. 12 - Mar 18, 2017 | b |<ul><li>MVP Design </li></ul>| d | e|
+| 20 | Mar. 19 - Mar. 25, 2017 | b | <ul><li>MVP Design n</li></ul> | d | e|
+| 21 | Mar. 26 - Apr. 1, 2017 | b | <ul><li>Commercial & MVP Launch</li></ul>| d | e|
+| 22 | Apr. 2 - Apr. 8, 2017| b | <ul><li>Y3 Preparations & Yearlong WrapUp Party</li></ul> | d | e|
 
 --
 ## Ebooks
