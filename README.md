@@ -38,9 +38,8 @@ This is the syllabus for the yearlong.  Each row represents a week of the progra
 | 10 | Jan. 8 - Jan. 14, 2017 | group activity | <ul><li>Advanced Flask</li></ul> | [Flask Documentation](http://flask.pocoo.org/) | [Week 10](https://github.com/meet-projects/Y2YL201617_Week10)|
 | 11 | Jan. 15- Jan. 21, 2017 | group activity | <ul><li>Y3 Ideation</li> <li>Advanced Flask & OAuth</li></ul> | d | [Week 11](https://docs.google.com/document/d/1dAYxAXhPu93QOZuLar1tWqzFo2yqeFctDUwD9llf5NU/edit?usp=sharing)|
 | 12 | Jan. 22 - Jan 28, 2017 | group activity |<ul><li>Responsive Web Design</li><li>Deploying web applicaitons with Heroku</li></ul> | <ul><li>[HTML Layouts](http://www.w3schools.com/html/html_layout.asp) </li><li>[Heroku](http://www.heroku.com) | [Week 12](https://github.com/meet-projects/Y2YL201617_Week12)|
-| 13 | Jan. 29 - Feb 4, 2017 | b | <ul><li>Y2 Individual Capstone Project </li></ul> | d | e|
-| 14 | Feb. 5 - Feb. 11, 2017 | b |<ul><li>Y2 Individual Capstone Project </li></ul> | d | e|
-| 15 | Feb. 12 - Feb. 18, 2017 | b | <ul><li>Y2 Individual Capstone Project </li></ul> | d | e|
+| 13 - 15 | Jan. 29 - Feb 18, 2017 | group activity | <ul><li>Y2 Individual Capstone Project </li></ul> | [Y2 Project Submission Website](https://y2submissions.herokuapp.com) | |
+
 | 16 | Feb. 19 - Feb. 25, 2017 | b | <ul><li>Continued Ideation for Y3</li></ul> | d | e|
 | 17 | Feb. 26 - Mar. 4, 2017 | b | <ul><li>How to Make a Pitch Deck</li> <li>Finalize Ideation</li></ul> | d | e|
 | 18 | Mar. 5 - Mar. 11, 2017 | b | <ul><li>MVP Design </li></ul> | d | e|
