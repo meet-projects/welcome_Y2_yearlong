@@ -34,9 +34,9 @@ This is the syllabus for the yearlong.  Each row represents a week of the progra
 ### Second Semester 
 | Week | Dates | Warm-Up | Topics | Resources | Repo | 
 | --- | --- | --- | --- | ---| ---|
-| 9 | Jan. 1 - Jan. 7, 2017 | group activity | <ul><li>2017 Lesson Plan</li></ul> | d | [Week 9 Slides](https://docs.google.com/presentation/d/1qSVB12RREPXmVFfhwagjnne1pLeR00_5JDVXHML_9kA/edit?usp=sharing)|
+| 9 | Jan. 1 - Jan. 7, 2017 | group activity | <ul><li>2017 Lesson Plan</li></ul> | N/A | [Week 9 Slides](https://docs.google.com/presentation/d/1qSVB12RREPXmVFfhwagjnne1pLeR00_5JDVXHML_9kA/edit?usp=sharing)|
 | 10 | Jan. 8 - Jan. 14, 2017 | group activity | <ul><li>Advanced Flask</li></ul> | [Flask Documentation](http://flask.pocoo.org/) | [Week 10](https://github.com/meet-projects/Y2YL201617_Week10)|
-| 11 | Jan. 15- Jan. 21, 2017 | group activity | <ul><li>Y3 Ideation</li> <li>Advanced Flask & OAuth</li></ul> | d | [Week 11](https://docs.google.com/document/d/1dAYxAXhPu93QOZuLar1tWqzFo2yqeFctDUwD9llf5NU/edit?usp=sharing)|
+| 11 | Jan. 15- Jan. 21, 2017 | group activity | <ul><li>Y3 Ideation</li> <li>Advanced Flask & OAuth</li></ul> | N/A | [Week 11](https://docs.google.com/document/d/1dAYxAXhPu93QOZuLar1tWqzFo2yqeFctDUwD9llf5NU/edit?usp=sharing)|
 | 12 | Jan. 22 - Jan 28, 2017 | group activity |<ul><li>Responsive Web Design</li><li>Deploying web applicaitons with Heroku</li></ul> | <ul><li>[HTML Layouts](http://www.w3schools.com/html/html_layout.asp) </li><li>[Heroku](http://www.heroku.com) | [Week 12](https://github.com/meet-projects/Y2YL201617_Week12)|
 | 13 - 15 | Jan. 29 - Feb 18, 2017 | group activity | <ul><li>Y2 Individual Capstone Project </li></ul> | [Y2 Project Submission Website](https://y2submissions.herokuapp.com) | |
 | 16 | Feb. 19 - Feb. 25, 2017 | N/A | <ul><li>Continued Ideation for Y3</li></ul> | N/A |N/A|
